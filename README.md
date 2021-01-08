@@ -24,4 +24,4 @@ The data visualization dashboard application is in file `dashboard.py`. It calls
 ```
 python dashboard.py
 ```
-Then, type `[http://127.0.0.1:8050/](http://127.0.0.1:8050/) into your web browser.
+Then, type ![http://127.0.0.1:8050/](http://127.0.0.1:8050/) into your web browser.
